@@ -12,6 +12,8 @@ Full-stack web developer (NestJS / Django / NextJS)
 ## 📌 깃허브 주요 프로젝트
 - 🧾 [baekjoon-solutions](https://github.com/bks0901/baekjoon-solutions) – 코딩테스트 문제 풀이 정리
 
+<br />
+
 > 📬 Contact: bks0901@gmail.com
 
 <!--
