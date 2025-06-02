@@ -13,7 +13,9 @@ Full-stack web developer (NestJS / Django / NextJS)
 - 알고리즘 학습
   - 🧾 [baekjoon-solutions](https://github.com/bks0901/baekjoon-solutions) – 코딩테스트 문제 풀이 정리
 - 사이드 프로젝트
-  - 🌐 [tech-dynasty](https://github.com/bks0901/tech-dynasty) - 기술 흐름 감지 및 리포트 제공
+  - 🌐 TechDynasty - 기술 흐름 감지 및 리포트 제공
+    - [tech-dynasty-web](https://github.com/bks0901/tech-dynasty-web) - 프론트엔드
+    - [tech-dynasty-api](https://github.com/bks0901/tech-dynasty-api) - 백엔드
 
 <br />
 
