@@ -12,8 +12,10 @@ Full-stack web developer (NestJS / Django / NextJS)
 ## 📌 깃허브 주요 프로젝트
 - 알고리즘 학습
   - 🧾 [baekjoon-solutions](https://github.com/bks0901/baekjoon-solutions) – 코딩테스트 문제 풀이 정리
+- 포트폴리오
+  - [nestjs-api-example](https://github.com/bks0901/nestjs-api-example) - nest.js 백엔드 구현 샘플
 - 사이드 프로젝트
-  - 🌐 TechDynasty - 기술 흐름 감지 및 리포트 제공
+  - 🌐 TechDynasty - 기술 흐름 감지 및 리포트 제공(작업중)
     - [tech-dynasty-web](https://github.com/bks0901/tech-dynasty-web) - 프론트엔드
     - [tech-dynasty-api](https://github.com/bks0901/tech-dynasty-api) - 백엔드(API 서버)
     - [tech-dynasty-ai](https://github.com/bks0901/tech-dynasty-ai) - 백엔드(데이터 수집/전달 및 AI)
