@@ -16,9 +16,6 @@ Full-stack web developer (NestJS / Django / NextJS)
   - [nestjs-api-example](https://github.com/bks0901/nestjs-api-example) - nest.js 백엔드 구현 샘플
 - 사이드 프로젝트
   - 🌐 TechDynasty - 기술 흐름 감지 및 리포트 제공(작업중)
-    - [tech-dynasty-web](https://github.com/bks0901/tech-dynasty-web) - 프론트엔드
-    - [tech-dynasty-api](https://github.com/bks0901/tech-dynasty-api) - 백엔드(API 서버)
-    - [tech-dynasty-ai](https://github.com/bks0901/tech-dynasty-ai) - 백엔드(데이터 수집/전달 및 AI)
 
 <br />
 
