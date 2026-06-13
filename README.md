@@ -1,11 +1,11 @@
 # 👋 안녕하세요, 배성환입니다
 
-Full-stack web developer (NestJS / Django / NextJS)
+Full-stack web developer (NestJS / Django / NextJS / Kotlin)
 
 <br />
 
 - 🛠️ 5년차 실무 경험: 기획 ~ 운영까지 참여한 B2C/B2B 서비스 개발
-- 🧠 최근 관심: k8s, 데이터 파이프라인 등
+- 🧠 최근 관심: k8s, wiki 구성, 데이터 정합성 등
 - 📚 현재 진행: DDIA 등 학습 및 사이드 프로젝트 개발
 <br />
 
