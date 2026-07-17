@@ -15,7 +15,7 @@ Full-stack web developer (NestJS / Django / NextJS / Kotlin)
 - 포트폴리오
   - [nestjs-api-example](https://github.com/bks0901/nestjs-api-example) - nest.js 백엔드 구현 샘플
 - 사이드 프로젝트
-  - 🌐 TechDynasty - 기술 흐름 감지 및 리포트 제공(작업중)
+  - 🌐 Nebularium - 고요한 지식의 관측소(작업중)
 
 <br />
 
