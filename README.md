@@ -1,6 +1,6 @@
 # 👋 안녕하세요, 배성환입니다
 
-Full-stack web developer (NestJS / Django / NextJS / Kotlin)
+Full-stack web developer (NestJS / Django / NextJS / Spring Boot)
 
 <br />
 
